@@ -26,13 +26,13 @@ My work spans **Retrieval-Augmented Generation (RAG)**, **multi-agent workflows*
 
 ## 📌 Featured Projects  
 
-- 🔹 [**Agentic RAG Chatbot**](https://g)  
+  🔹 [**Agentic RAG Chatbot**](https://g)  
    Multi-agent system with RAG pipeline (vector DB + LLM), capable of reasoning across financial reports.  
 
-- 🔹 [**Stock Dashboard Report Generator**](https://github.com/your-repo-link)  
+  🔹 [**Stock Dashboard Report Generator**](https://github.com/your-repo-link)  
    Automated daily stock movement reports with quadrant plots & Word dashboards.  
 
-- 🔹 [**Option Chain Analyzer**](https://github.com/your-repo-link)  
+  🔹 [**Option Chain Analyzer**](https://github.com/your-repo-link)  
    End-to-end option chain scraper + IV skew visualizer using NSE data.  
 
 - 🔹 [**AI Quant Toolkit**](https://github.com/raus03/ShadowPM.git)  
